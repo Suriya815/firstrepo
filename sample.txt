@@ -1,1 +1,2 @@
 create sample.txt file
+This file is now edited
